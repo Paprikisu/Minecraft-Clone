@@ -1,0 +1,52 @@
+[debug] [2022-11-12T16:36:34.970Z] ----------------------------------------------------------------------
+[debug] [2022-11-12T16:36:34.971Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Miska\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-12T16:36:34.972Z] CLI Version:   10.6.0
+[debug] [2022-11-12T16:36:34.972Z] Platform:      win32
+[debug] [2022-11-12T16:36:34.972Z] Node Version:  v16.14.0
+[debug] [2022-11-12T16:36:34.973Z] Time:          Sat Nov 12 2022 18:36:34 GMT+0200 (Itä-Euroopan normaaliaika)
+[debug] [2022-11-12T16:36:34.973Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-12T16:36:34.978Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-12T16:36:34.978Z] > authorizing via signed-in user (puppywilltell@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Miska\Desktop\School\Webdev\MCclone\mcclone
+
+[debug] [2022-11-12T16:37:07.969Z] ----------------------------------------------------------------------
+[debug] [2022-11-12T16:37:07.971Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Miska\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-12T16:37:07.971Z] CLI Version:   10.6.0
+[debug] [2022-11-12T16:37:07.971Z] Platform:      win32
+[debug] [2022-11-12T16:37:07.971Z] Node Version:  v16.14.0
+[debug] [2022-11-12T16:37:07.972Z] Time:          Sat Nov 12 2022 18:37:07 GMT+0200 (Itä-Euroopan normaaliaika)
+[debug] [2022-11-12T16:37:07.972Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-12T16:37:07.978Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-12T16:37:07.978Z] > authorizing via signed-in user (puppywilltell@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Miska\Desktop\School\Webdev\MCclone\mcclone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-11-12T16:37:14.972Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-11-12T16:37:15.487Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-11-12T16:37:15.487Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
